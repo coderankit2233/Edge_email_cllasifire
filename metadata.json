@@ -1,0 +1,6 @@
+{
+  "name": "Edge Email & Ticket Classifier with Auto-Drafting",
+  "description": "Comprehensive engineering documentation, hardware architecture, edge SLM benchmarking, LangChain pipeline specifications, and interactive simulation workbench for Trackmind's NVIDIA Jetson Orin Nano project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
